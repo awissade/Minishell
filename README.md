@@ -5,4 +5,5 @@ For the bonus, you’ll extend your shell's capabilities by implementing logical
 
 
 Special Thanks 🙌
+
 This project was a team effort, and I want to give a special shout-out to my partner, Anas Jawad (ajawad). Your hard work and dedication were key to making this project a success. Thank you!
